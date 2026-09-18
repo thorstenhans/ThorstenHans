@@ -33,9 +33,10 @@ I'm self-publishing [Building Serverless Applications with WebAssembly & Spin](h
 - **[Archive](https://thorsten-hans.com/archive/)** (20 months ago)
 - **[WebAssembly and Containers with Docker Desktop - Hello World & Beyond](https://thorsten-hans.com/webassembly-and-containers-with-docker-desktop-hello-world-and-beyond/)** (31 months ago)
 
-
 ## Say Hi!
 
 Reach out on [X at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
+
+[![Sponsor Thorsten](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/thorstenhans)
 
 _last update_: Fri, 18 Sep 2026
