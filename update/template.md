@@ -29,4 +29,6 @@ I'm self-publishing [Building Serverless Applications with WebAssembly & Spin](h
 
 Reach out on [X at @ThorstenHans](https://twitter.com/ThorstenHans) or find me on [LinkedIn](https://linkedin.com/in/ThorstenHans).
 
+[![Sponsor Thorsten](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/thorstenhans)
+
 _last update_: {{ .Updated }}
