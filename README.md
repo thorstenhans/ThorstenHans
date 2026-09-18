@@ -1,31 +1,35 @@
-# Hi there 👋🏼
+# Hi there
 
-I'm Thorsten, a tech enthusiast and software engineer residing in Saarland, Germany's smallest yet most beautiful state. My passion lies in server-side WebAssembly, Containers, Kubernetes, and cloud computing, with a strong focus on Azure.
+I'm Thorsten, a tech enthusiast and software engineer living in Saarland, Germany's smallest yet most beautiful state. My passion lies in server-side WebAssembly, containers, Kubernetes, and cloud-native.
 
-I work as a Sr. Developer Advocate at [Akamai Technologies](https://akamai.com), empowering developers to build the next wave of cloud computing using Spin, Kubernetes and GenAI.
+I work as a Sr. Developer Advocate at [Akamai Technologies](https://akamai.com), empowering developers to build the next wave of cloud computing using the CNCF project Spin, Kubernetes and GenAI.
 
 With extensive experience in developing cloud-based solutions, I specialize in helping organizations harness the power of WebAssembly to build scalable, resilient, and efficient applications for the future.
+
+## Book
+
+I'm self-publishing [Building Serverless Applications with WebAssembly & Spin](https://leanpub.com/building-serverless-apps-with-wasm-and-spin) 
 
 ## Some Facts
 
 - 🇩🇪 Team Germany
-- 🔷 I was recognized as a Microsoft MVP (Azure) from 2011 till I pro-actively stepped down by the end of 2025
+- 💜 I am all-in on server-side WebAssembly
+- 🐳 I do a bunch stuff of containers and Kubernetes
+- 🔷 I was recognized as a Microsoft MVP (Azure) from July 2011 - December 2025 (pro-actively stepped down)
 - 🔷 I am a Docker Captain since 2022
-- 💜 I am all in on server-side WebAssembly
-- 🐳 I do a bunch stuff of Containers and Kubernetes
-- I love 💞 my girls
+- I love my girls
 - I play ⚽️, 🏃🏻‍♂️, and 🚴🏼‍♂️ in my spare time
 
 ## Recent posts I published [on my blog](https://thorsten-hans.com)
 
-- **[Book Progress & Illustrations](https://thorsten-hans.com/book-progress-and-illustrations/)** (1 day ago)
-- **[Book Progress & Thoughts on Inclusive Pricing](https://thorsten-hans.com/book-progress-and-thoughts-on-inclusive-pricing/)** (9 days ago)
-- **[Now](https://thorsten-hans.com/now/)** (10 days ago)
+- **[Book Progress & Illustrations](https://thorsten-hans.com/book-progress-and-illustrations/)** (2 days ago)
+- **[Book Progress & Thoughts on Inclusive Pricing](https://thorsten-hans.com/book-progress-and-thoughts-on-inclusive-pricing/)** (10 days ago)
+- **[Now](https://thorsten-hans.com/now/)** (11 days ago)
 - **[I’m Writing a Book on WebAssembly and Spin](https://thorsten-hans.com/i-am-writing-a-book-on-wasm-and-spin/)** (1 month ago)
 - **[Component Composition with Spin 4.0](https://thorsten-hans.com/component-composition-with-spin-4/)** (1 month ago)
 - **[Azure DevOps Extensions for Spin, Fermyon Wasm Functions and Fermyon Cloud](https://thorsten-hans.com/azure-devops-extensions-for-spin-fc-and-fwf/)** (11 months ago)
 - **[What I’ve Been Up To](https://thorsten-hans.com/whats-ive-been-up-to/)** (11 months ago)
-- **[Uses](https://thorsten-hans.com/uses/)** (12 months ago)
+- **[Uses](https://thorsten-hans.com/uses/)** (13 months ago)
 - **[Archive](https://thorsten-hans.com/archive/)** (20 months ago)
 - **[WebAssembly and Containers with Docker Desktop - Hello World & Beyond](https://thorsten-hans.com/webassembly-and-containers-with-docker-desktop-hello-world-and-beyond/)** (31 months ago)
 
